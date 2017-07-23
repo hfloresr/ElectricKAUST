@@ -1,0 +1,5 @@
+The first code help to visualize the weekly trend of the tepco data, for a specified period
+
+The second Code obtain the data for the weather of japan but there are some variables not measured for certain cities
+
+the data is a cleaned version with NA for data not found 
